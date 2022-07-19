@@ -19,5 +19,10 @@ Tecnologies used:
 - WTForms
 
 ### Work in progress ... ###
+
+Deployed with Heroku, check it here :point_down:
+
+(https://flask-market-deployment.herokuapp.com/)
+
 *created by **osccso** :rocket:
 
